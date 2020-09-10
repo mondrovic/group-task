@@ -1,6 +1,6 @@
 # group-task
 
-**Requirements**
+**Requirements** </br>
 Be deployed to GitHub Pages.
 
 Have a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id naming conventions, indentation, quality comments, etc.).
